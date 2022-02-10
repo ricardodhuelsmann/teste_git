@@ -30,6 +30,7 @@ git branch <nome>
 git checkout <nome>
 
 
+Entrar na branch principal, e depois fazer git pull
 
 git checkout main
 git merge <nome>
