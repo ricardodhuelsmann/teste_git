@@ -5,3 +5,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ricardodhuelsmann/teste_git.git
 git push -u origin main
+
+
+
+
+git status
+git add .
+git commit -m "Nome commit"
+git push
