@@ -13,3 +13,11 @@ git status
 git add .
 git commit -m "Nome commit"
 git push
+
+
+
+git reflog
+
+
+
+git reset --hard <id>
