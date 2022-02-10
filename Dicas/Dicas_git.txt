@@ -21,3 +21,7 @@ git reflog
 
 
 git reset --hard <id>
+
+
+git branch <nome>
+git checkout <nome>
